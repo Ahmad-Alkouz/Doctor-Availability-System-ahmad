@@ -1,0 +1,3 @@
+id,name,email,password,student_id,department
+1,"ahmad ameen alkouz",ahmad123@gmail.com,$2y$10$jOfA/NGrXn4nTye5A/NZxuADoG0pXn3lXrSetlmmkfbOSOMNGvRNa,amedameen830@gmail.com,"Computer Science"
+2,"ahmad ameen alkouz",amedameen830@gmail.com,$2y$10$lWFn/FQMUNl2ZigFM2/zDO0Ah976Vj43370JW72jQIgAXOvo9HuRK,20220109,"Computer Science"
